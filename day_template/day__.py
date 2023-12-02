@@ -1,7 +1,7 @@
 import sys
 import inspect
 from codetiming import Timer
-sys.path.insert(0, 'D:\\projects\\aoc2020\\')
+sys.path.insert(0, 'D:\\projects\\aoc2024\\')
 from helper import loadingUtils, pretty
 
 DAY = 2
