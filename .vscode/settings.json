@@ -3,6 +3,7 @@
         "day_template",
         "day01",
         "day02",
+        "day04",
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true
